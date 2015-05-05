@@ -1,4 +1,4 @@
-angular.module('angular-carousel')
+angular.module('angular-read-more')
 
 .directive('readMore', ['$window', function($window){
   return {
